@@ -1,1 +1,2 @@
-# jatayu-cala-config
+# jatayu-calamares-config
+Calamares Configuration for jatayu
